@@ -1,9 +1,9 @@
 import React from "react";
 import "./testimonials.css";
-import AVTR1 from "../../assets/avatar1.jpg";
-import AVTR2 from "../../assets/avatar2.jpg";
-import AVTR3 from "../../assets/avatar3.jpg";
-import AVTR4 from "../../assets/avatar4.jpg";
+import AVTR1 from "../../assets/jasson.jpg";
+import AVTR2 from "../../assets/diesel.jpg";
+import AVTR3 from "../../assets/chris.jpg";
+import AVTR4 from "../../assets/dwayane.jpg";
 
 import { Pagination } from "swiper";
 
@@ -16,25 +16,25 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    title: "Nazwa Livia",
+    title: "Jason Statham",
     review:
       "In addition to providing reviews, users are usually asked to give stars as the quality of the application. The higher the stars you get, the better the quality of the application",
   },
   {
     avatar: AVTR2,
-    title: "Nazwa Livia",
+    title: "Vin Diesel",
     review:
       "In addition to providing reviews, users are usually asked to give stars as the quality of the application. The higher the stars you get, the better the quality of the application",
   },
   {
     avatar: AVTR3,
-    title: "Nazwa Livia",
+    title: "Chris Hemsworth",
     review:
       "In addition to providing reviews, users are usually asked to give stars as the quality of the application. The higher the stars you get, the better the quality of the application",
   },
   {
     avatar: AVTR4,
-    title: "Nazwa Livia",
+    title: "Dwayne Johnson",
     review:
       "In addition to providing reviews, users are usually asked to give stars as the quality of the application. The higher the stars you get, the better the quality of the application",
   },
