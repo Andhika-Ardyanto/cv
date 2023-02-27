@@ -64,5 +64,6 @@ textarea {
 @media screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-widht-sm);
+    padding: 2rem;
   }
 }

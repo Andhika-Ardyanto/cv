@@ -97,6 +97,7 @@
   }
   .about__content {
     text-align: center;
+    padding: 2rem;
   }
 
   .about__content p {
